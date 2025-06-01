@@ -19,7 +19,6 @@ RegisterNumber:  2122223100007
 
 *#include <stdio.h> 
 int size = 0; 
-*/ 
 void printArray(int array[], int size) 
 { 
 int i; 
